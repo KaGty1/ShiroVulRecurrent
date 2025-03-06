@@ -1,0 +1,2 @@
+# ShiroVulRecurrent
+本地一键式搭建Shiro项目环境，快速复现Shiro各版本权限绕过类漏洞
