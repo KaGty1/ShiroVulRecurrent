@@ -29,6 +29,6 @@
 
 #### 修改访问跟路径与端口信息
 
-在`appilcation.properties`中快速修改跟路径与端口信息
+在`appilcation.properties`中快速修改根路径与端口信息
 
 ![image-20250306114842737](https://img-1325537595.cos.ap-beijing.myqcloud.com/undefinedimage-20250306114842737.png)
